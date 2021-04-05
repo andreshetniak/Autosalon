@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210404133650_Initialize.cs" />
+    <Compile Remove="Migrations\20210404133650_Initialize.Designer.cs" />
+    <Compile Remove="Migrations\20210405144205_FK_Characteristics_Car_CascadeDelete.cs" />
+    <Compile Remove="Migrations\20210405144205_FK_Characteristics_Car_CascadeDelete.Designer.cs" />
+    <Compile Remove="Migrations\20210405145049_FK_Characteristics_Car_CascadeDelete.cs" />
+    <Compile Remove="Migrations\20210405145049_FK_Characteristics_Car_CascadeDelete.Designer.cs" />
+    <Compile Remove="Migrations\20210405145610_FK_Characteristics_Car_CascadeDelete.cs" />
+    <Compile Remove="Migrations\20210405145610_FK_Characteristics_Car_CascadeDelete.Designer.cs" />
+    <Compile Remove="Migrations\20210405145715_Initial.cs" />
+    <Compile Remove="Migrations\20210405145715_Initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

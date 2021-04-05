@@ -1,0 +1,13 @@
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.deps.json
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.dll
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.csprojAssemblyReference.cache
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.AssemblyInfoInputs.cache
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.AssemblyInfo.cs
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.runtimeconfig.json
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.runtimeconfig.dev.json
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.pdb
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.dll
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.pdb
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.genruntimeconfig.cache
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\bin\Debug\netcoreapp3.1\appsettings.json
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Infrastrucure\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastrucure.csproj.CoreCompileInputs.cache

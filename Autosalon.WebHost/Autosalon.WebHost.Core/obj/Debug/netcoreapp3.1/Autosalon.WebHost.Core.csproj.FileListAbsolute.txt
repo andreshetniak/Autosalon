@@ -1,0 +1,13 @@
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Core.deps.json
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Core.dll
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Core.pdb
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Core.AssemblyInfoInputs.cache
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Core.AssemblyInfo.cs
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Core.dll
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Core.pdb
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\bin\Debug\netcoreapp3.1\appsettings.json
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Core.csprojAssemblyReference.cache
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Core.csproj.CopyComplete
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\obj\Debug\netcoreapp3.1\Autosalon.WebHost.Core.csproj.CoreCompileInputs.cache
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastructure.dll
+E:\EDU\Diplom\AutosalonWebApp\Autosalon.WebHost\Autosalon.WebHost.Core\bin\Debug\netcoreapp3.1\Autosalon.WebHost.Infrastructure.pdb
